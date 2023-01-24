@@ -1,0 +1,7 @@
+username     : seter
+password     : 2255@
+
+url Api      :  http://51.210.148.45:7901/api/username=modou&password=xxxxpassword&msg=test+mt&tel=+221774052486&sender=SETER
+
+
+Accès Portal : http://51.210.148.45/sms-push.com/
